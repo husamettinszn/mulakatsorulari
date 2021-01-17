@@ -3,6 +3,7 @@ public class Soru2 {
         System.out.println("Merheba Dunya");
         System.out.printf("Hello World");
         System.out.println("Hallo Welt");
-        System.out.println("Sekamun aleykum");
+        System.out.println("Selamun aleykum");
+        System.out.printf("Aleykum Selam");
     }
 }
