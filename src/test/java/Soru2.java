@@ -5,5 +5,6 @@ public class Soru2 {
         System.out.println("Hallo Welt");
         System.out.println("Selamun aleykum");
         System.out.printf("Aleykum Selam");
+        System.out.println("Selenium cok guzel");
     }
 }
