@@ -9,7 +9,7 @@ public class Soru3 {
 
         String unique = "";
         for(int i=0; i<str.length(); i++){
-            if
+            if()
         }
     }
 }
