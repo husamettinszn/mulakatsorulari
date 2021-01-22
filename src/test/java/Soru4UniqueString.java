@@ -71,23 +71,7 @@ public class Soru4UniqueString {
         System.out.println(keinTekrar2);
 
 
-        //4.Yol
-        String keinTekrar2="";
 
-        LinkedHashSet<Character> lhset = new LinkedHashSet<>();
-
-        for (int k=0; k<str.length(); k++){
-            lhset.add(str.charAt(k));
-        }
-        System.out.println(lhset);
-
-        for (Character w:lhset
-        ) {
-            keinTekrar2=keinTekrar2+w;
-        }
-
-
-        System.out.println(keinTekrar2);
 
     }
 
